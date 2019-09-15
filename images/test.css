@@ -1,0 +1,12 @@
+
+body {
+    border: 2px solid darkred;
+    padding: 20px;
+}
+.one {
+    float: left;
+    white-space: nowrap;
+}
+.two {
+    clear: left;
+}
